@@ -1,0 +1,23 @@
+:root {
+	--red: #c00;
+	--blue: #00c;
+	--gray: #e1e1e1;
+}
+
+p,
+h1 {
+	font-family: sans-serif;
+}
+
+.red {
+	color: var(--red);
+	font-weight: bold;
+}
+
+.blue {
+	color: var(--blue);
+}
+
+.gray {
+	color: var(--gray);
+}
